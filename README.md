@@ -29,3 +29,10 @@ https://www.youtube.com/watch?v=2EhsEsciAAY
  2. Open the project using Unity.
  3. Go to the following path <b>CS491Project1Shreyas\Assets\UIC</b> and open the <b>UIC SEO Grove</b> Unity scene File.<br />
  4. Go to the <a href="https://github.com/uic-evl/omicron-unity/wiki/Guide-for-running-Unity-in-CAVE2#building-on-cave2">Run on CAVE 2</a> and follow instructions to run your project on CAVE 2.<br />
+ 
+## How to Run on Without Head Mounted Display
+1. Clone the code from the code base. 
+2. Open the project using Unity version 2019.2.11
+3. Go to the following path <b>CS491Project1Shreyas\Assets\UIC</b> and open the <b>UIC SEO Grove</b> Unity scene File.
+4. Go to 'Omericon' Menu and select 'Disable VR HMDs'. 
+5. Run the scene file.
