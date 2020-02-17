@@ -1,0 +1,215 @@
+fileFormatVersion: 2
+guid: f9dea15836c018d458800ae702587ea9
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Cube_001
+    100002: DisplayMount
+    100004: DisplayMountTray
+    100006: DisplayMountTray_001
+    100008: DisplayStandBase
+    100010: DisplayStandExtender
+    100012: DisplayStandWheel
+    100014: DisplayStandWheel_001
+    100016: DisplayStandWheel_002
+    100018: DisplayStandWheel_003
+    100020: OmegaDesk-AngledSupport_002
+    100022: OmegaDesk-AngledSupport_003
+    100024: OmegaDesk-Base-2017
+    100026: OmegaDesk-Display_002
+    100028: OmegaDesk-DisplayMount_001
+    100030: OmegaDesk-Joint_002
+    100032: OmegaDesk-Joint_003
+    100034: OmegaDesk-ShelfHinge_001
+    100036: OmegaDesk-Wheels
+    100038: OTouchTable-2017
+    100040: PivotMount
+    100042: Sharp65_Display
+    100044: //RootNode
+    100046: Shelf-SidePanel_002
+    100048: Shelf-SidePanel_003
+    400000: Cube_001
+    400002: DisplayMount
+    400004: DisplayMountTray
+    400006: DisplayMountTray_001
+    400008: DisplayStandBase
+    400010: DisplayStandExtender
+    400012: DisplayStandWheel
+    400014: DisplayStandWheel_001
+    400016: DisplayStandWheel_002
+    400018: DisplayStandWheel_003
+    400020: OmegaDesk-AngledSupport_002
+    400022: OmegaDesk-AngledSupport_003
+    400024: OmegaDesk-Base-2017
+    400026: OmegaDesk-Display_002
+    400028: OmegaDesk-DisplayMount_001
+    400030: OmegaDesk-Joint_002
+    400032: OmegaDesk-Joint_003
+    400034: OmegaDesk-ShelfHinge_001
+    400036: OmegaDesk-Wheels
+    400038: OTouchTable-2017
+    400040: PivotMount
+    400042: Sharp65_Display
+    400044: //RootNode
+    400046: Shelf-SidePanel_002
+    400048: Shelf-SidePanel_003
+    2100000: Metal-Black
+    2100002: LCD-PlasticBlack
+    2100004: LCD-Display
+    2100006: LCD-PlasticSilver
+    2100008: Metal-Silver
+    2100010: PlasticWhite
+    2100012: Transparent-PlasticBlack
+    2300000: Cube_001
+    2300002: DisplayMount
+    2300004: DisplayMountTray
+    2300006: DisplayMountTray_001
+    2300008: DisplayStandBase
+    2300010: DisplayStandExtender
+    2300012: DisplayStandWheel
+    2300014: DisplayStandWheel_001
+    2300016: DisplayStandWheel_002
+    2300018: DisplayStandWheel_003
+    2300020: OmegaDesk-AngledSupport_002
+    2300022: OmegaDesk-AngledSupport_003
+    2300024: OmegaDesk-Base-2017
+    2300026: OmegaDesk-Display_002
+    2300028: OmegaDesk-DisplayMount_001
+    2300030: OmegaDesk-Joint_002
+    2300032: OmegaDesk-Joint_003
+    2300034: OmegaDesk-ShelfHinge_001
+    2300036: OmegaDesk-Wheels
+    2300038: PivotMount
+    2300040: Sharp65_Display
+    2300042: Shelf-SidePanel_002
+    2300044: Shelf-SidePanel_003
+    2300046: //RootNode
+    3300000: Cube_001
+    3300002: DisplayMount
+    3300004: DisplayMountTray
+    3300006: DisplayMountTray_001
+    3300008: DisplayStandBase
+    3300010: DisplayStandExtender
+    3300012: DisplayStandWheel
+    3300014: DisplayStandWheel_001
+    3300016: DisplayStandWheel_002
+    3300018: DisplayStandWheel_003
+    3300020: OmegaDesk-AngledSupport_002
+    3300022: OmegaDesk-AngledSupport_003
+    3300024: OmegaDesk-Base-2017
+    3300026: OmegaDesk-Display_002
+    3300028: OmegaDesk-DisplayMount_001
+    3300030: OmegaDesk-Joint_002
+    3300032: OmegaDesk-Joint_003
+    3300034: OmegaDesk-ShelfHinge_001
+    3300036: OmegaDesk-Wheels
+    3300038: PivotMount
+    3300040: Sharp65_Display
+    3300042: Shelf-SidePanel_002
+    3300044: Shelf-SidePanel_003
+    3300046: //RootNode
+    4300000: DisplayStandBase
+    4300002: DisplayMountTray_001
+    4300004: DisplayMountTray
+    4300006: DisplayStandWheel_003
+    4300008: DisplayStandWheel_002
+    4300010: DisplayStandWheel
+    4300012: DisplayStandWheel_001
+    4300014: DisplayStandExtender
+    4300016: PivotMount
+    4300018: DisplayMount
+    4300020: Sharp65_Display
+    4300022: OmegaDesk-Base-2017
+    4300024: OmegaDesk-Wheels
+    4300026: OmegaDesk-Joint_003
+    4300028: OmegaDesk-AngledSupport_002
+    4300030: OmegaDesk-AngledSupport_003
+    4300032: OmegaDesk-Display_002
+    4300034: OmegaDesk-DisplayMount_001
+    4300036: Shelf-SidePanel_003
+    4300038: OmegaDesk-ShelfHinge_001
+    4300040: Shelf-SidePanel_002
+    4300042: Cube_001
+    4300044: OmegaDesk-Joint_002
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

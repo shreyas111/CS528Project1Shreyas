@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: eba0383a120b5704e9ead642842cc763
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Cylinder
+    100002: //RootNode
+    100004: EVL-Counch-ArmCushion
+    100006: EVL-Counch-Seat
+    100008: EVL-Counch-Seat_001
+    100010: EVL-Counch-Seat_002
+    100012: EVL-Counch-SeatBack
+    100014: EVL-Counch-SeatBack_001
+    100016: EVL-Counch-SeatBack_002
+    100018: EVL-Couch
+    400000: Cylinder
+    400002: //RootNode
+    400004: EVL-Counch-ArmCushion
+    400006: EVL-Counch-Seat
+    400008: EVL-Counch-Seat_001
+    400010: EVL-Counch-Seat_002
+    400012: EVL-Counch-SeatBack
+    400014: EVL-Counch-SeatBack_001
+    400016: EVL-Counch-SeatBack_002
+    400018: EVL-Couch
+    2300000: Cylinder
+    2300002: //RootNode
+    2300004: EVL-Counch-ArmCushion
+    2300006: EVL-Counch-Seat
+    2300008: EVL-Counch-Seat_001
+    2300010: EVL-Counch-Seat_002
+    2300012: EVL-Counch-SeatBack
+    2300014: EVL-Counch-SeatBack_001
+    2300016: EVL-Counch-SeatBack_002
+    2300018: EVL-Couch
+    3300000: Cylinder
+    3300002: //RootNode
+    3300004: EVL-Counch-ArmCushion
+    3300006: EVL-Counch-Seat
+    3300008: EVL-Counch-Seat_001
+    3300010: EVL-Counch-Seat_002
+    3300012: EVL-Counch-SeatBack
+    3300014: EVL-Counch-SeatBack_001
+    3300016: EVL-Counch-SeatBack_002
+    3300018: EVL-Couch
+    4300000: EVL-Couch
+    4300002: Cylinder
+    4300004: EVL-Counch-SeatBack_002
+    4300006: EVL-Counch-SeatBack
+    4300008: EVL-Counch-SeatBack_001
+    4300010: EVL-Counch-ArmCushion
+    4300012: EVL-Counch-Seat_002
+    4300014: EVL-Counch-Seat_001
+    4300016: EVL-Counch-Seat
+    7400000: Default Take
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EVL-CouchBlack
+    second: {fileID: 2100000, guid: a04548aff7179354bba655aa5a71ffd2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EVL-CouchFooting
+    second: {fileID: 2100000, guid: c48c6b10c75cb9e4eb4f276bd92f69f1, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

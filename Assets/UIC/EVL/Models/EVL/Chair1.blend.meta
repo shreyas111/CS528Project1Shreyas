@@ -1,0 +1,159 @@
+fileFormatVersion: 2
+guid: 2b129f7e140d4ea4298164c5d93d3658
+timeCreated: 1545239695
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Chair1Seat
+    100004: ChairBase
+    100006: ChairWheel
+    100008: ChairWheel_001
+    100010: ChairWheel_002
+    100012: ChairWheel_003
+    100014: ChairWheel_004
+    100016: Cylinder
+    100018: SeatBase
+    100020: SeatMetalBase
+    100022: Chair1SeatBack
+    100024: Chair1ArmRest
+    400000: //RootNode
+    400002: Chair1Seat
+    400004: ChairBase
+    400006: ChairWheel
+    400008: ChairWheel_001
+    400010: ChairWheel_002
+    400012: ChairWheel_003
+    400014: ChairWheel_004
+    400016: Cylinder
+    400018: SeatBase
+    400020: SeatMetalBase
+    400022: Chair1SeatBack
+    400024: Chair1ArmRest
+    2100000: unnamed
+    2100002: Plastic-Black
+    2100004: Cloth-LightGreen
+    2100006: Metal-Silver
+    2100008: Metal-Black
+    2300000: //RootNode
+    2300002: Chair1Seat
+    2300004: ChairBase
+    2300006: ChairWheel
+    2300008: ChairWheel_001
+    2300010: ChairWheel_002
+    2300012: ChairWheel_003
+    2300014: ChairWheel_004
+    2300016: Cylinder
+    2300018: SeatBase
+    2300020: SeatMetalBase
+    2300022: Chair1SeatBack
+    2300024: Chair1ArmRest
+    3300000: //RootNode
+    3300002: Chair1Seat
+    3300004: ChairBase
+    3300006: ChairWheel
+    3300008: ChairWheel_001
+    3300010: ChairWheel_002
+    3300012: ChairWheel_003
+    3300014: ChairWheel_004
+    3300016: Cylinder
+    3300018: SeatBase
+    3300020: SeatMetalBase
+    3300022: Chair1SeatBack
+    3300024: Chair1ArmRest
+    4300000: Cube
+    4300002: Chair1Seat
+    4300004: ChairBase
+    4300006: ChairWheel_001
+    4300008: Cylinder
+    4300010: SeatMetalBase
+    4300012: SeatBase
+    4300014: ChairWheel
+    4300016: ChairWheel_004
+    4300018: ChairWheel_003
+    4300020: ChairWheel_002
+    4300022: Chair1SeatBack
+    4300024: Chair1ArmRest
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
