@@ -3,7 +3,8 @@
 
 Project 1 implements a virtual reality environment of the Grove at the University of Illinois at Chicago campus in Chicago. The project enables the user to experience the virtual reality environment on a variety of platforms like the UIC CAVE 2 and the HTC Vive headset.
 
-CS 528 : Project 1.
+CS 528 : Project 1. 
+
 Authors:
 Shreyas Kulkarni
 
