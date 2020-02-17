@@ -21,6 +21,7 @@ https://www.youtube.com/watch?v=2EhsEsciAAY
 1. Clone the code from the code base. 
 2. Open the project using Unity version 2019.2.11
 3. Go to the following path <b>CS491Project1Shreyas\Assets\UIC</b> and open the <b>UIC SEO Grove</b> Unity scene File.
+4. Ensure Steam is running.
 4. Go to 'Omericon' Menu and select 'Configure for Vive'. 
 5. Run the scene file.
 
